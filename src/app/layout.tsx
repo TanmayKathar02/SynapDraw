@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'Fronyend',
+  title: 'AI Whiteboard',
   description: 'A collaborative whiteboard with AI-powered features.',
 };
 

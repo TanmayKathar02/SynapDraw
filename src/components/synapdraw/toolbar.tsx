@@ -49,7 +49,7 @@ export function Toolbar({ addStickyNote, stickyNotes }: ToolbarProps) {
                 fill="currentColor"
                 />
             </svg>
-            <h1 className="text-xl font-semibold">Fronyend</h1>
+            <h1 className="text-xl font-semibold">AI Whiteboard</h1>
         </div>
       </SidebarHeader>
       <SidebarContent>
