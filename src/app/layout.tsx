@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'SynapDraw',
+  title: 'Fronyend',
   description: 'A collaborative whiteboard with AI-powered features.',
 };
 
