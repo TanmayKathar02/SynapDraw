@@ -1,6 +1,6 @@
 # 🎨 AI-Powered Collaborative Whiteboard  
 
-An **AI-powered, real-time collaborative whiteboard** built with **React**, **TailwindCSS**, **Socket.IO**, and **OpenAI GPT**. Draw, brainstorm, add sticky notes, and get AI-assisted ideas — all in a clean, modern interface.  
+An **AI-powered, real-time collaborative whiteboard** built with **React**, **TailwindCSS**, **Socket.IO**, and **Google Gemini**. Draw, brainstorm, add sticky notes, and get AI-assisted ideas — all in a clean, modern interface.  
 
 ---
 
@@ -16,9 +16,9 @@ An **AI-powered, real-time collaborative whiteboard** built with **React**, **Ta
 ## 🛠️ Tech Stack  
 - **Frontend:** React + TailwindCSS + Canvas API  
 - **Real-Time:** Socket.IO  
-- **AI Integration:** OpenAI GPT API  
+- **AI Integration:** Google Gemini 
 - **Backend (Optional):** Node.js + Express  
-- **Deployment:** Vercel / Netlify / AWS Amplify  
+- **Deployment:** firebase  
 
 ---
 
